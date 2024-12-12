@@ -1,6 +1,6 @@
 # 16SrRNA
 -----------
-###Installation of Qiime2 in Conda enviroment in Ubuntu
+### Installation of Qiime2 in Conda enviroment in Ubuntu
 
 Follow the linux section
 https://docs.qiime2.org/2024.10/install/native/#install-qiime-2-within-a-conda-environment
